@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 **Welcome to my Github Page!**
 
-I'm Jacob, Digital IC designer from China， currently living in Shanghai.
+I'm Jacob, Digital IC designer from China, currently living in Shanghai.
 
 ### Things I Code with
 <!-- Code SHIELDS -->
