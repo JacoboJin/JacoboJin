@@ -46,34 +46,14 @@ I'm Jacob, Digital IC designer from China， currently living in Shanghai.
 ![SystemVerilog][SystemVerilog-shield]
 ![Python][python-shield]
 ![C/C++][C/C++-shield]
+![Matlab][Matlab-shield]
 
 ### Github Stats
 ![Jacobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacoboJin)
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Verilog                  22 hrs 14 mins      ███████████████████         75.05 % 
-SystemVerilog            2 hrs 11 mins       ██                          07.42 % 
-C/C++                    2 hrs 5 mins        ██                          07.08 % 
-HTML                     1 hr 30 mins        █                           05.09 % 
-Other                    47 mins             █                           02.69 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 20 mins      ████████████                51.74 % 
-Vim                      14 hrs 18 mins      ████████████                48.26 %
-
-💻 Operating System: 
-Windows                  15 hrs 20 mins      ████████████                51.74 % 
-Linux                    14 hrs 18 mins      ████████████                48.26 %    
-```
 
 <!-- links -->
 [Verilog-shield]:https://img.shields.io/badge/Verilog-blue?style=for-the-bage&color=blue
 [SystemVerilog-shield]:https://img.shields.io/badge/SystemVerilog-purple?style=for-the-bage&color=purple
 [Python-shield]:https://img.shields.io/badge/Python-orange?style=for-the-bage&color=orange
 [C/C++-shield]:https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-bage&logoColor=red&color=red
+[Matlab-shield]:https://img.shields.io/badge/Matlab-pink?style=for-the-bage
