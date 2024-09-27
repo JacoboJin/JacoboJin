@@ -40,6 +40,18 @@ Here are some ideas to get you started:
 
 I'm Jayce, Digital IC designer from China, currently living in Shanghai.
 
+- 🔭 I’m currently working on lowpower and digital IC design.
+- 🌱 I’m currently learning low power tech and cpu architecture.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: jayce_jin_ch@outlook.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- -->
+
+
+
 ### Things I Code with
 <!-- Code SHIELDS -->
 ![Verilog][Verilog-shield]
